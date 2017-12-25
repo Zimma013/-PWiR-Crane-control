@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 12" line=" 9" >
+      <vfs_project>E:\PWiR-Crane-control\cranecontrol.gpr</vfs_project>
+      <vfs_file>E:\PWiR-Crane-control\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6" >
+      <vfs_project>E:\PWiR-Crane-control\cranecontrol.gpr</vfs_project>
+      <vfs_file>E:\PWiR-Crane-control\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 14" line=" 21" >
+      <vfs_project>E:\PWiR-Crane-control\cranecontrol.gpr</vfs_project>
+      <vfs_file>E:\PWiR-Crane-control\src\detectinput.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >E:\PWiR-Crane-control\cranecontrol.gpr</vfs_file>
+    <file_marker column=" 12" line=" 9">
+      <vfs_project >E:\PWiR-Crane-control\cranecontrol.gpr</vfs_project>
+      <vfs_file >E:\PWiR-Crane-control\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 6">
+      <vfs_project >E:\PWiR-Crane-control\cranecontrol.gpr</vfs_project>
+      <vfs_file >E:\PWiR-Crane-control\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
